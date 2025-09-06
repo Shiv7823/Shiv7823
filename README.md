@@ -108,11 +108,20 @@
 ---
 
 # 🏆 Certifications & Achievements  
-- 📜 Data Analysis and Visualization with Power BI (Microsoft)  
-- 📜 Foundations: Data, Data, Everywhere (Google)  
-- 📜 Deep Learning (IIT Ropar)  
-- 📜 Machine Learning Internship Completion  
-- 📜 Hospital Management System Project (Python)  
+-📜 Google Data Analytics Professional Certificate (Google) – Coursera
+-📜 Ask Questions to Make Data-Driven Decisions (Google) – Coursera
+-📜 Microsoft Power BI Data Analyst Professional Certificate (Microsoft) – Coursera
+-📜 Extract, Transform and Load (ETL) Data in Power BI (Microsoft) – Coursera
+-📜 Preparing Data for Analysis with Microsoft Excel (Microsoft) – Coursera
+-📜 Data Modeling in Power BI (Microsoft) – Coursera
+-📜 Creative Designing in Power BI (Microsoft) – Coursera
+-📜 Process Data from Dirty to Clean (Google) – Coursera
+-📜 Data Analysis Job Simulation – Deloitte Australia
+-📜 Python for Data Science, AI & Development (IBM) – Coursera
+-📜 Deep Learning – IIT Ropar (NPTEL)
+-📜 Machine Learning Internship Completion – Willmark International
+-📜 Data Science Noob To Pro Max – 5 Min Engineering
+-📜 Hospital Management System Project (Python)
 
 ---
 
