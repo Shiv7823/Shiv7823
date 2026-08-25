@@ -1,7 +1,7 @@
 <!-- Typing SVG Banner -->
 <p align="center">
   <a href="https://github.com/Shiv7823">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=550&lines=Hi+I'm+Shivprasad+Vanshete+👋;Data+Analyst+%7C+Data+Science+Explorer;Turning+Data+into+Insights+📊;Python+%7C+Power+BI+%7C+SQL+%7C+Excel" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=550&lines=Hi+I'm+Shivprasad+Vanshete+👋;AI+Engineer+%7C+Data+Science+Explorer;Turning+Data+into+Insights+📊;Python+%7C+Power+BI+%7C+SQL+%7C+Excel" alt="Typing SVG" />
   </a>
 </p>
 
