@@ -1,152 +1,204 @@
-<!-- Typing SVG Banner -->
-<p align="center">
-  <a href="https://github.com/Shiv7823">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=550&lines=Hi+I'm+Shivprasad+Vanshete+👋;AI+Engineer+%7C+Data+Science+Explorer;Turning+Data+into+Insights+📊;Python+%7C+Power+BI+%7C+SQL+%7C+Excel" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
+
+<!-- Dynamic Typing Banner -->
+<a href="https://github.com/Shiv7823">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&lines=Shivprasad+Vanshete;AI+Engineer+%F0%9F%A4%96;Data+Science+%7C+ML+%7C+Deep+Learning;Turning+Raw+Data+Into+Intelligence+%F0%9F%A7%A0;Python+%7C+Power+BI+%7C+SQL+%7C+Scikit-Learn" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Animated Neural Network Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
 
 ---
 
-# 👨‍💻 About Me  
-- 🎓 B.Tech Student (Minor: Robotics & Automation)  
-- 💻 Passionate about **Data Analytics, Machine Learning, and Python Development**  
-- 📈 Skilled in **Data Visualization, Storytelling with Data, and Business Insights**  
-- 🔍 Currently exploring **Data Science Applications in AI & Automation**  
-- 🤝 Open to collaborations on **Data Analysis, Business Intelligence & ML**  
+## 🤖 `whoami`
+
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name         = "Shivprasad Vanshete"
+        self.role         = "AI Engineer | Data Scientist"
+        self.education    = "B.Tech @ MIT Chh. Sambhajinagar (Minor: Robotics & Automation)"
+        self.focus        = ["Machine Learning", "Deep Learning", "Data Analytics", "AI Automation"]
+        self.currently    = "Exploring AI applications in robotics & intelligent systems"
+        self.open_to      = "Collaborations on ML, BI & AI-driven products"
+        self.superpower   = "Transforming messy data into actionable intelligence 🧠"
+
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something intelligent together.")
+
+me = AIEngineer()
+me.say_hi()
+```
 
 ---
 
-# 🛠️ Tech Stack & Tools  
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-<p align="center">
+## 🧠 AI & Tech Arsenal
 
-  <!-- Python -->
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </a>
+<div align="center">
 
-  <!-- Power BI -->
-  <a href="https://powerbi.microsoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  </a>
+**Core Languages & Frameworks**
 
-  <!-- Excel -->
-  <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  </a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-  <!-- SQL -->
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white" />
-  </a>
+**Machine Learning & AI**
 
-  <!-- Pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  </a>
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-  <!-- NumPy -->
-  <a href="https://numpy.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  </a>
+**Data & BI Tools**
 
-  <!-- Scikit Learn -->
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  </a>
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </a>
+**Dev Environment**
 
-  <!-- GitHub -->
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-  <!-- VS Code -->
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  </a>
-
-  <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  </a>
-
-</p>
+</div>
 
 ---
 
-# 📂 Featured Projects  
-- 🎬 **Movie Data Scraping (Rotten Tomatoes)** – Extracted and analyzed movie data using Python.  
-- 📊 **Customer Churn Analysis (Power BI)** – Dashboard to explore churn rate, demographics, and contract patterns.  
-- 📈 **Sales Analysis Dashboard (Power BI)** – Revenue, profit, and customer trend visualization.  
-- ☁️ **Weather API Dashboard** – Interactive real-time weather insights.  
-- 📺 **Netflix Data Analysis** – Exploratory data analysis on Netflix dataset.  
-- 🏥 **Hospital Management System (Python)** – CLI-based project to manage hospital operations.  
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🚀 Featured AI & Data Projects
+
+| # | Project | Domain | Stack | Highlights |
+|---|---------|--------|-------|------------|
+| 🎬 | **Movie Data Scraping — Rotten Tomatoes** | Web Scraping & NLP | Python, BeautifulSoup | Extracted & analyzed large-scale movie metadata |
+| 📊 | **Customer Churn Predictor Dashboard** | ML + BI | Power BI, Python | Churn prediction with demographic & behavioral signals |
+| 📈 | **Sales Intelligence Dashboard** | Business Analytics | Power BI, SQL | Revenue, profit trends & customer segmentation |
+| ☁️ | **Real-Time Weather API Dashboard** | Data Engineering | Python, REST API | Live weather insights with interactive visuals |
+| 📺 | **Netflix EDA** | Exploratory Data Analysis | Python, Pandas, Matplotlib | Content trend analysis across genres & regions |
+| 🏥 | **Hospital Management System** | Software Engineering | Python (CLI) | End-to-end patient & operations management |
+
+> 🔗 Explore all projects → **[My GitHub Repositories](https://github.com/Shiv7823?tab=repositories)**
 
 ---
 
-# 💼 Experience  
-- **Python Developer Intern @ IIT Delhi**  
-   - Developed Python-based modules for automation and data processing.  
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-- **Power BI Intern @ Saiket Systems**  
-   - Designed business dashboards and transformed raw data into actionable insights.  
+## 💼 Work Experience
 
-- **Data Science Lead @ GDG MIT, Chh. Sambhajinagar**  
-   - Mentored peers and conducted workshops on Data Science & Machine Learning.  
+```
+🔬  Python Developer Intern         @  IIT Delhi
+    ↳ Built Python automation modules & data processing pipelines
 
----
+📊  Power BI Intern                  @  Saiket Systems
+    ↳ Designed enterprise dashboards; raw data → actionable insights
 
-# 🎓 Education  
-- **B.Tech – Maharashtra Institute of Technology, Chh. Sambhajinagar**  
-- **Minor in Robotics & Automation – MIT, Chh. Sambhajinagar**  
-
----
-
-# 🏆 Certifications & Achievements
-
-- 📜 Google Data Analytics Professional Certificate (Google) – Coursera  
-- 📜 Ask Questions to Make Data-Driven Decisions (Google) – Coursera  
-- 📜 Microsoft Power BI Data Analyst Professional Certificate (Microsoft) – Coursera  
-- 📜 Extract, Transform and Load (ETL) Data in Power BI (Microsoft) – Coursera  
-- 📜 Preparing Data for Analysis with Microsoft Excel (Microsoft) – Coursera  
-- 📜 Data Modeling in Power BI (Microsoft) – Coursera  
-- 📜 Creative Designing in Power BI (Microsoft) – Coursera  
-- 📜 Process Data from Dirty to Clean (Google) – Coursera  
-- 📜 Data Analysis Job Simulation – Deloitte Australia  
-- 📜 Python for Data Science, AI & Development (IBM) – Coursera  
-- 📜 Deep Learning – IIT Ropar (NPTEL)  
-- 📜 Machine Learning Internship Completion – Willmark International  
-- 📜 Data Science Noob To Pro Max – 5 Min Engineering  
-- 📜 Hospital Management System Project (Python)  
+🧑‍🏫  Data Science Lead               @  GDG MIT, Chh. Sambhajinagar
+    ↳ Mentored peers; conducted ML & Data Science workshops
+```
 
 ---
 
-# 📊 GitHub Stats & Analytics  
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shiv7823&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiv7823&layout=compact&theme=tokyonight" height="180em" />
-</p>
+## 🏆 Certifications
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shiv7823&theme=tokyonight&hide_border=true" height="180em" />
-</p>
+<details>
+<summary><b>📜 Click to expand — 14 Certifications</b></summary>
+
+<br/>
+
+| Certificate | Issuer | Platform |
+|-------------|--------|----------|
+| Google Data Analytics Professional | Google | Coursera |
+| Ask Questions to Make Data-Driven Decisions | Google | Coursera |
+| Microsoft Power BI Data Analyst Professional | Microsoft | Coursera |
+| Extract, Transform and Load (ETL) Data in Power BI | Microsoft | Coursera |
+| Preparing Data for Analysis with Microsoft Excel | Microsoft | Coursera |
+| Data Modeling in Power BI | Microsoft | Coursera |
+| Creative Designing in Power BI | Microsoft | Coursera |
+| Process Data from Dirty to Clean | Google | Coursera |
+| Python for Data Science, AI & Development | IBM | Coursera |
+| Deep Learning | IIT Ropar | NPTEL |
+| Data Analysis Job Simulation | Deloitte Australia | Forage |
+| Machine Learning Internship | Willmark International | — |
+| Data Science Noob To Pro Max | 5 Min Engineering | — |
+| Hospital Management System Project | — | Python |
+
+</details>
 
 ---
 
-# 📫 Connect with Me  
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shivprasad-vanshete-39b842259/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:shivprasadvhanshette@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://portfolio-eosin-phi-48.vercel.app/#hero"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white" /></a>
-</p>
+## 📊 GitHub Intelligence
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shiv7823&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiv7823&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180em" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Shiv7823&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180em" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shiv7823&theme=react-dark&hide_border=true&area=true" width="95%" />
+
+</div>
 
 ---
 
-⭐️ From [Shiv7823](https://github.com/Shiv7823)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivprasad-vanshete-39b842259/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivprasadvhanshette@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eosin-phi-48.vercel.app/#hero)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shiv7823)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Profile views counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=Shiv7823&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS)
+
+<br/>
+
+```
+"The goal of AI is not to replace human intelligence,
+but to amplify it — one model at a time."
+```
+
+**⭐ Star a repo if you find it helpful · 🤝 Open to collabs & opportunities**
+
+<br/>
+
+*Made with ❤️ by [Shivprasad Vanshete](https://github.com/Shiv7823)*
+
+</div>
