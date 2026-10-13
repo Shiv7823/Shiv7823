@@ -1,241 +1,204 @@
+<!-- ✦ GitHub Profile README — Shivprasad Vanshete | github.com/Shiv7823 -->
 <div align="center">
+
+<img width="100%" alt="Shivprasad Vanshete | AI Engineer" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&color=0:020617,40:0F3054,75:0E7490,100:14B8A6&text=Shivprasad%20Vanshete&fontSize=49&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=AI%20Engineering%20%E2%80%A2%20Secure%20LLM%20Systems%20%E2%80%A2%20Automation&descAlignY=57&descSize=17&descColor=CCFBF1" />
 
 <a href="https://github.com/Shiv7823">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Shivprasad+Vanshete;AI+Engineer+%F0%9F%A4%96+%7C+ML+Practitioner;Building+Intelligent+Systems+with+Python;Scikit-Learn+%7C+Deep+Learning+%7C+Data+Science;From+Raw+Data+%E2%86%92+AI-Powered+Insights+%F0%9F%A7%A0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=2DD4BF&center=true&vCenter=true&width=850&lines=Building+intelligent+systems+that+solve+real+problems;AI+Security+%7C+RAG+%7C+LLMs+%7C+Machine+Learning;From+data+and+models+to+secure+AI+applications;Experiment+%E2%86%92+Evaluate+%E2%86%92+Optimize+%E2%86%92+Ship" alt="Animated introduction" />
 </a>
 
-<br/><br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<a href="https://portfolio-eosin-phi-48.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Explore%20my%20work-14B8A6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/shivprasad-vanshete-39b842259/"><img src="https://img.shields.io/badge/LINKEDIN-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:shivprasadvhanshette@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+
+
+<img src="https://komarev.com/ghpvc/?username=Shiv7823&label=PROFILE%20VIEWS&color=14B8A6&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Shiv7823?style=flat-square&logo=github&color=0891B2&label=Followers" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/Shiv7823?style=flat-square&logo=github&color=0D9488&label=Stars" alt="GitHub stars" />
 
 </div>
 
----
+> whoami 👨‍💻
+class ShivprasadVanshete:
+    role = "AI Engineer | ML & LLM Applications"
+    interests = [
+        "AI Application Security", "Retrieval-Augmented Generation",
+        "Machine Learning", "Natural Language to SQL",
+        "Workflow Automation", "Enterprise AI"
+    ]
+    building_with = ["Python", "FastAPI", "LangChain", "Qdrant",
+                     "Scikit-learn", "SQL", "n8n", "Groq", "Ollama"]
+    philosophy = "Make AI useful, measurable, secure, and maintainable."
+I like working end to end: understanding a business problem, preparing the data, building an intelligent solution, integrating it into a usable application, then testing its security, accuracy, and performance.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🤖 `whoami`
+🔐 Security-minded builder
+I think beyond the demo: permissions, prompt injection, sensitive information, input validation, and safe outputs.
+</td>
+<td width="50%" valign="top">
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name         = "Shivprasad Vanshete"
-        self.role         = "AI Engineer | Machine Learning Practitioner"
-        self.education    = "B.Tech @ MIT Chh. Sambhajinagar (Minor: Robotics & Automation)"
-        self.ai_stack     = ["Machine Learning", "Deep Learning", "Scikit-Learn",
-                             "Random Forest", "Regression", "EDA", "Feature Engineering"]
-        self.data_skills  = ["Python", "Pandas", "NumPy", "Matplotlib", "Seaborn",
-                             "SQL", "Web Scraping", "Streamlit"]
-        self.certified_in = ["Microsoft Fabric DP-700 ✅", "Google Data Analytics",
-                             "IBM Python for AI & DS", "Deep Learning (IIT Ropar NPTEL)"]
-        self.currently    = "Exploring AI applications in Robotics & Automation"
-        self.open_to      = "ML collaborations, AI internships & research projects"
+⚡ Performance-focused problem solver
+I enjoy reducing latency, streamlining pipelines, and making AI workflows simpler and faster.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-    def say_hi(self):
-        print("Let's build something intelligent. Every dataset has a story — let AI tell it. 🧠")
+🧠 Practical ML & LLM engineering
+From feature engineering and classifiers to RAG, hybrid search, and natural-language interfaces.
+</td>
+<td width="50%" valign="top">
 
-me = AIEngineer()
-me.say_hi()
-```
+🤝 Curious and collaborative
+I document experiments, explore new tools, and look for ways to turn everyday problems into useful automations.
+</td>
+</tr>
+</table>
+
+🧰 Technologies I work with
+<div align="center">
+
+Languages · APIs · Databases
+<img src="https://skillicons.dev/icons?i=python,fastapi,mysql,sqlite,git,github,vscode,linux&theme=dark" alt="Python FastAPI SQL Git GitHub VS Code Linux" />
+
+
+ML · Data Science · Applications
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch,anaconda&theme=dark" alt="Scikit-learn PyTorch Anaconda" />
+
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/Qdrant-DC382D?style=flat-square&logoColor=white" alt="Qdrant" />
+<img src="https://img.shields.io/badge/Groq-F97316?style=flat-square&logoColor=white" alt="Groq" />
+<img src="https://img.shields.io/badge/Ollama-111827?style=flat-square&logoColor=white" alt="Ollama" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+
+</div>
+
+🚀 Selected work & areas of focus
+These are examples of my AI engineering work and explorations. Some are internal/private and are not presented as public GitHub repositories.
+
+Focus	What I work on	Key ideas & tools
+🛡️ AI Security Framework	Reusable protection layers and security checks for AI applications	Prompt-injection defense · API security · RBAC · Guardrails
+📚 Enterprise RAG Assistant	Citation-grounded answers over internal knowledge	FastAPI · LangChain · Qdrant · Hybrid retrieval · Access control
+🧮 Text-to-SQL Analytics	Natural language → SQL → query results → readable explanations	SQL generation · Database integration · Latency optimization
+🎫 Smart Ticket Routing	Predicting the right support team from ticket descriptions	NLP · Scikit-learn · LinearSVC
+🔁 Intelligent Automation	Making manual workflows faster through APIs and automation	Python · n8n · Workflow design
+
+
+📌 Featured public repositories
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Shiv7823/Height-Prediction">📏 Height Prediction</a>
+ML-powered web application that estimates adult height from family and demographic data.
+Python Random Forest Streamlit
+<a href="https://github.com/Shiv7823/Height-Prediction">Explore project ↗</a>
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Shiv7823/Hotel-Booking-Data-Analysis">🏨 Hotel Booking Analysis</a>
+Explores cancellations, booking patterns, and data-driven trends in hospitality.
+Pandas EDA Seaborn
+<a href="https://github.com/Shiv7823/Hotel-Booking-Data-Analysis">Explore project ↗</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Shiv7823/Web-Scrapping">🕸️ Web Scrapping</a>
+Extracts and cleans movie data from the web for downstream analysis.
+Python BeautifulSoup Requests
+<a href="https://github.com/Shiv7823/Web-Scrapping">Explore project ↗</a>
+</td>
+<td width="50%" valign="top">
+
+<a href="https://github.com/Shiv7823/PowerBI">📊 Power BI</a>
+Business intelligence and visualization work that turns data into insights.
+Power BI Data Modeling Analytics
+<a href="https://github.com/Shiv7823/PowerBI">Explore project ↗</a>
+</td>
+</tr>
+</table>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<a href="https://github.com/Shiv7823?tab=repositories"><img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" /></a>
 </div>
 
----
-
-## 🧠 AI & Machine Learning Stack
-
+📈 GitHub analytics
 <div align="center">
 
-**AI / ML Core**
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shiv7823&show_icons=true&theme=github_dark&hide_border=true&title_color=2DD4BF&icon_color=22D3EE&ring_color=14B8A6" alt="Shivprasad's GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiv7823&layout=compact&langs_count=8&theme=github_dark&hide_border=true&title_color=2DD4BF" alt="Most used public repository languages" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**Data Science & Engineering**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E86AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Microsoft Fabric & Data Platform**
-
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric%20DP--700-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-**Dev & Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img width="65%" src="https://streak-stats.demolab.com?user=Shiv7823&theme=github-dark-blue&hide_border=true&ring=14B8A6&fire=22D3EE&currStreakLabel=2DD4BF" alt="GitHub contribution streak statistics" />
 
 </div>
 
----
-
+🟩 Contribution calendar
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- GitHub-style daily contribution heatmap. No GitHub Actions needed. -->
+<img src="https://ghchart.rshah.org/0D9488/Shiv7823" width="100%" alt="Shiv7823 daily GitHub contribution heatmap calendar" />
+
+<sub>Each square represents a day of GitHub contribution activity · Automatically updates as contributions change</sub>
+
+
+
+<!-- A second view makes the contribution section more informative than a heatmap alone. -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shiv7823&theme=github_dark" width="100%" alt="GitHub contributions overview and timeline" />
+
 </div>
 
-## 🚀 AI & ML Projects
-
-> Every repo below represents a real-world ML problem solved end-to-end.
-
----
-
-### 🏆 [`Height-Prediction`](https://github.com/Shiv7823/Height-Prediction) — ML Web App
-> **Stack:** Python · Scikit-Learn · Random Forest · Streamlit · Feature Engineering
-
-A production-ready **Machine Learning web application** that predicts a child's adult height using parental and demographic data. Trained on the Galton Families dataset (936 records) with a Random Forest Regressor, deployed interactively via **Streamlit**.
-
-- 🧬 Feature engineering: mid-parent height calculation
-- 📊 Model metrics: MAE, MSE, R² Score
-- 🎯 Outputs predicted height + confidence interval range
-- 🌐 Live interactive web interface
-
----
-
-### 🏨 [`Hotel-Booking-Data-Analysis`](https://github.com/Shiv7823/Hotel-Booking-Data-Analysis) — ML + EDA
-> **Stack:** Python · Pandas · Matplotlib · Seaborn · Data Analytics
-
-Deep **Exploratory Data Analysis** on hotel booking behaviour — uncovering cancellation patterns, price sensitivity, and seasonal demand from real-world hospitality data.
-
-- 📉 Identified City Hotels have significantly higher cancellation rates
-- 💰 Proved correlation between high ADR (Average Daily Rate) and cancellation risk
-- 📅 Seasonal trend analysis for strategic revenue forecasting
-- ✅ Delivered actionable AI-driven business recommendations
-
----
-
-### 🎬 [`Web-Scrapping`](https://github.com/Shiv7823/Web-Scrapping) — Data Pipeline
-> **Stack:** Python · BeautifulSoup · Requests · Pandas
-
-An automated **data collection pipeline** that scrapes Rotten Tomatoes' "Best Movies of All Time" list — parsing structured information from live HTML and storing it in a clean, analysis-ready CSV dataset.
-
-- 🕷️ Built a robust HTML parser with BeautifulSoup
-- 🧹 Data cleaning: filtered noise, empty values, malformed entries
-- 📦 Exported structured dataset ready for downstream ML/NLP tasks
-
----
-
-### ⚙️ [`PowerBI`](https://github.com/Shiv7823/PowerBI) — Data Intelligence
-> **Stack:** Microsoft Fabric · DP-700 Certified · DAX · Data Modeling
-
-Business intelligence dashboards transforming raw enterprise data into intelligent visual insights — applying certified Microsoft Fabric & DP-700 knowledge.
-
----
-
+📉 Contribution activity over time
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shiv7823&bg_color=0D1117&color=2DD4BF&line=22D3EE&point=FFFFFF&area=true&area_color=115E59&hide_border=true&custom_title=Shiv7823%20%E2%80%94%20Contribution%20Activity" width="100%" alt="GitHub contribution activity line graph" />
 </div>
 
-## 💼 Experience
-
-```
-🔬  Python Developer Intern        @  IIT Delhi
-    ↳ Built ML-ready Python automation modules & intelligent data pipelines
-    ↳ Worked on automation systems bridging Python & real-world data
-
-📊  Data Intelligence Intern        @  Saiket Systems
-    ↳ Transformed enterprise data into AI-driven business dashboards
-    ↳ Applied DP-700 Fabric skills in a production data environment
-
-🧑‍🏫  Data Science Lead              @  GDG MIT, Chh. Sambhajinagar
-    ↳ Mentored 50+ students in ML, Python & Data Science
-    ↳ Conducted hands-on workshops on model building & AI applications
-```
-
----
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## 🏆 Certifications
-
+<sub>Statistics and charts use third-party image services and may occasionally load slowly. Only GitHub-recognized activity is counted; private contributions follow your GitHub visibility settings.</sub>
+🎓 Experience & learning
 <details>
-<summary><b>📜 Click to expand — 15 Certifications (including DP-700)</b></summary>
+<summary><b>💼 Experience and community work</b></summary>
 
-<br/>
 
-| 🏅 Certificate | 🏢 Issuer | 📍 Platform |
-|----------------|-----------|-------------|
-| **Microsoft Fabric Analytics Engineer (DP-700)** ⭐ | Microsoft | Microsoft |
-| Google Data Analytics Professional | Google | Coursera |
-| Ask Questions to Make Data-Driven Decisions | Google | Coursera |
-| Process Data from Dirty to Clean | Google | Coursera |
-| Python for Data Science, AI & Development | IBM | Coursera |
-| Deep Learning | IIT Ropar | NPTEL |
-| Microsoft Power BI Data Analyst Professional | Microsoft | Coursera |
-| ETL Data in Power BI | Microsoft | Coursera |
-| Data Modeling in Power BI | Microsoft | Coursera |
-| Creative Designing in Power BI | Microsoft | Coursera |
-| Preparing Data for Analysis with Microsoft Excel | Microsoft | Coursera |
-| Data Analysis Job Simulation | Deloitte Australia | Forage |
-| Machine Learning Internship | Willmark International | — |
-| Data Science Noob To Pro Max | 5 Min Engineering | — |
-| Hospital Management System (Python) | — | Project |
-
+- Python Developer Intern — IIT Delhi: Python automation and data-related development.
+- Data Intelligence Intern — Saiket Systems: analytics and business-intelligence work.
+- Data Science Lead — GDG MIT, Chh. Sambhajinagar: data science learning and community activities.
+- Enterprise AI initiatives: RAG, AI application security, automation, and ML experimentation.
 </details>
 
----
+<details>
+<summary><b>📜 Selected certifications and learning</b></summary>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shiv7823&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiv7823&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180em" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Shiv7823&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180em" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shiv7823&theme=react-dark&hide_border=true&area=true" width="95%" />
-
-</div>
-
----
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## 🌐 Connect
+- Microsoft Fabric DP-700
+- Google Data Analytics
+- IBM — Python for Data Science, AI & Development
+- IIT Ropar / NPTEL — Deep Learning
+- Microsoft Power BI and data analytics coursework
+</details>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivprasad-vanshete-39b842259/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivprasadvhanshette@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eosin-phi-48.vercel.app/#hero)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shiv7823)
+💬 My approach
+Understand the problem → Build the solution → Evaluate the results → Secure it → Make it faster
+"The best AI system is the one that is useful, reliable, and safe in the real world."
 
-<br/>
+<a href="https://www.linkedin.com/in/shivprasad-vanshete-39b842259/"><img src="https://img.shields.io/badge/LET'S%20CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="https://portfolio-eosin-phi-48.vercel.app/"><img src="https://img.shields.io/badge/SEE%20MY%20WORK-Portfolio-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shiv7823&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS)
 
-<br/>
 
-```
-"Intelligence is the ability to adapt to change."
-                              — Stephen Hawking
-```
-
-**⭐ Star a repo if it helped you · 🤝 Always open to AI collaborations**
-
-<br/>
-
-*Crafted with 🧠 by [Shivprasad Vanshete](https://github.com/Shiv7823)*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:020617,40:0F3054,75:0E7490,100:14B8A6" alt="Profile footer" />
 
 </div>
